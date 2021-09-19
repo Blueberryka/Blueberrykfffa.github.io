@@ -1,0 +1,24 @@
+body{
+    background: #475C49;
+   
+}
+img {
+    border-radius: 50%;
+}
+h1 {
+    color:#FFCAD0;
+    font-size: 90px;
+    font-weight: 600;
+    line-height: .1;
+    text-align: center;
+    text-transform: uppercase;
+    font-family: 'Pacifico', cursive;
+}
+
+h2 {
+    color:#F6F4ED;
+    font-size: 26px
+    margin-top:.2em;
+    font-family: 'Caveat', cursive;
+}
+s
